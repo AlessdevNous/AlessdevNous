@@ -4,7 +4,7 @@
 
 ## 👨‍💼 Liderando la innovación
 
-**Chief Technology Officer & Chief Information Officer** en [Nous Technologies](https://nous-tech.com), donde dirigimos la automatización empresarial mediante **IA** y desarrollo web a la medida. No solo escribo código, arquitecto soluciones que transforman operaciones completas.
+**Chief Technology Officer & Chief Information Officer** en [Nous Technologies](https://nous.cr), donde dirigimos la automatización empresarial mediante **IA** y desarrollo web a la medida. No solo escribo código, arquitecto soluciones que transforman operaciones completas.
 
 ### 🎯 Mi enfoque como líder técnico
 - **Estrategia tecnológica** - Definiendo el futuro tech de la empresa
@@ -68,9 +68,9 @@
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusername)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tuusername)
-[![Nous Technologies](https://img.shields.io/badge/-Nous%20Tech-FF6B35?style=flat-square&logo=rocket&logoColor=white)](https://nous-tech.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandrodg)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ddiaz_ale)
+[![Nous Technologies](https://img.shields.io/badge/-Nous%20Tech-FF6B35?style=flat-square&logo=rocket&logoColor=white)](https://nous.cr)
 
 ---
 
