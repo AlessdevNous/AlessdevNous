@@ -1,26 +1,26 @@
 # 🚀 Alessandro Díaz
 
-> **CTO & CIO** at Nous Technologies | **Full-Stack Developer** obsesionado con crear soluciones que realmente importen
+> **CTO & CIO** at Nous Technologies | **Full-Stack Developer** obsessed with creating solutions that truly matter
 
-## 👨‍💼 Liderando la innovación
+## 👨‍💼 Leading Innovation
 
-**Chief Technology Officer & Chief Information Officer** en [Nous Technologies](https://nous.cr), donde dirigimos la automatización empresarial mediante **IA** y desarrollo web a la medida. No solo escribo código, arquitecto soluciones que transforman operaciones completas.
+**Chief Technology Officer & Chief Information Officer** at [Nous Technologies](https://nous.cr), where we drive enterprise automation through **AI** and custom web development. I don't just write code—I architect solutions that transform entire operations.
 
-### 🎯 Mi enfoque como líder técnico
-- **Estrategia tecnológica** - Definiendo el futuro tech de la empresa
-- **Automatización inteligente** - IA que realmente resuelve problemas de negocio  
-- **Arquitectura escalable** - Sistemas que crecen con las necesidades del cliente
-- **Team leadership** - Construyendo equipos que entregan excelencia
+### 🎯 My approach as a tech leader
+- **Technology strategy** - Defining the company's tech future
+- **Intelligent automation** - AI that actually solves business problems  
+- **Scalable architecture** - Systems that grow with client needs
+- **Team leadership** - Building teams that deliver excellence
 
 ## 🏢 Nous Technologies
 
-**Automatización con IA y desarrollo web a la medida**
-- 🤖 Implementación de soluciones de IA para procesos empresariales
-- 🌐 Desarrollo de aplicaciones web personalizadas
-- ⚡ Automatización de workflows complejos
-- 📊 Dashboards y analytics en tiempo real
+**AI Automation and Custom Web Development**
+- 🤖 Implementation of AI solutions for enterprise processes
+- 🌐 Custom web application development
+- ⚡ Complex workflow automation
+- 📊 Real-time dashboards and analytics
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### Frontend Architecture
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -48,32 +48,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusername&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessdevNous&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessdevNous&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎯 Actualmente
+## 🎯 Currently
 
-- 🏗️ **Arquitectando** la próxima generación de herramientas de automatización en Nous Technologies
-- 🤖 **Implementando** soluciones de IA que reducen costos operativos en 60%+
-- 👥 **Liderando** un equipo de desarrolladores especializados en IA y web development
-- 🚀 **Escalando** operaciones para atender clientes enterprise
+- 🏗️ **Architecting** next-generation automation tools at Nous Technologies
+- 🤖 **Implementing** AI solutions that reduce operational costs by 60%+
+- 👥 **Leading** a team of developers specialized in AI and web development
+- 🚀 **Scaling** operations to serve enterprise clients
 
-## 💼 Servicios de Nous Technologies
+## 💼 Nous Technologies Services
 
-- **Automatización de procesos** con IA personalizada
-- **Desarrollo web a la medida** para necesidades específicas
-- **Consultoría tecnológica** y arquitectura de sistemas
-- **Integración de APIs** y microservicios
+- **Process automation** with custom AI solutions
+- **Custom web development** for specific business needs
+- **Technology consulting** and systems architecture
+- **API integration** and microservices
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandrodg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrodg)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ddiaz_ale)
 [![Nous Technologies](https://img.shields.io/badge/-Nous%20Tech-FF6B35?style=flat-square&logo=rocket&logoColor=white)](https://nous.cr)
 
 ---
 
 <div align="center">
-  <i>"La mejor tecnología es la que se vuelve invisible para el usuario, pero transforma completamente su forma de trabajar."</i>
+  <i>"The best technology is the one that becomes invisible to the user, but completely transforms how they work."</i>
 </div>
